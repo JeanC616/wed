@@ -21,8 +21,9 @@ a {
 
 
 #Intro {
-    background-color: #e3ebf3;
-background-image: linear-gradient(90deg, #e3ebf3 1%, #010e23 100%);
+    background-color: #94def3;
+background-image: linear-gradient(100deg, #94def3 1%, #5a61c6 100%);
+
 
 }
 #Quien-soy {
@@ -59,7 +60,7 @@ div {
 
 button {
     
-    width: 90vw;
+    width: 95vw;
     height: 34px;
     background-color: brown;
     align-self: center;
