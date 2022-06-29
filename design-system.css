@@ -21,7 +21,9 @@ a {
 
 
 #Intro {
-  background-color: rgb(174, 220, 238);
+    background-color: #a7dbf9;
+    background-image: linear-gradient(160deg, #a7dbf9 1%, #000308 100%);
+    ;
 }
 #Quien-soy {
     background-color: rgb(109, 211, 252);
