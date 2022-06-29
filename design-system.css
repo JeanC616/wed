@@ -40,7 +40,9 @@ a {
     
 }
 #Unico {
-    background-color: rgb(6, 183, 253);
+    background-color: #113b69;
+    background-image: linear-gradient(90deg, #113b69 1%, #010e23 100%);
+
 }
 
 
