@@ -27,23 +27,25 @@ background-image: linear-gradient(100deg, #94def3 1%, #5a61c6 100%);
 
 }
 #Quien-soy {
-    background-color: #58a4f3;
-    background-image: linear-gradient(90deg, #58a4f3 1%, #031737 100%);
+    background-color: #78cae0;
+background-image: linear-gradient(100deg, #78cae0 1%, #555cc3 100%);
+
     
 }
 #Cosas-feliz {
-    background-color: #3b8ce0;
-    background-image: linear-gradient(90deg, #3b8ce0 1%, #031737 100%);
+    background-color: #5eb6ce;
+background-image: linear-gradient(100deg, #5eb6ce 1%, #4d54bb 100%);
+
     
 }
 #Cosas-enojar {
-    background-color: #276aaf;
-    background-image: linear-gradient(90deg, #276aaf 1%, #031737 100%);
+    background-color: #5eb6ce;
+    background-image: linear-gradient(100deg, #5eb6ce 1%, #4d54bb 100%);
     
 }
 #Unico {
-    background-color: #113b69;
-    background-image: linear-gradient(90deg, #113b69 1%, #010e23 100%);
+    background-color: #3689a0;
+background-image: linear-gradient(100deg, #3689a0 1%, #3f46a7 100%);
 
 }
 
