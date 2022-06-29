@@ -1,5 +1,4 @@
-* {
-    margin: 0px;
+* { margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
@@ -63,7 +62,7 @@ button {
     
     width: 95vw;
     height: 34px;
-    background-color: black;
+    background-color: rgb(240, 70, 70);
     align-self: center;
     font-size: 12px;
 }
