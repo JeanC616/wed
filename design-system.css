@@ -58,7 +58,7 @@ div {
     min-height: 100vh;
     }
 
-li, ul {
+li, {
     
     width: 95vw;
     height: 30px;
