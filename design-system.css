@@ -71,7 +71,7 @@ button {
 .Menu {
     position: fixed;
     display: flex;
-    flex-direction:;
+    flex-direction:column;
 
 }
 
